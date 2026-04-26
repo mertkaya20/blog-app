@@ -1,0 +1,197 @@
+{
+  "posts": [
+    {
+      "title": "Getting Started with Tailwind CSS",
+      "author": "Arina Aseeva",
+      "body": "Tailwind CSS is a utility-first CSS framework that allows you to build modern interfaces without leaving your HTML. Instead of writing custom CSS, you compose designs using predefined utility classes. The responsive design system makes it easy to create layouts that work on any screen size.",
+      "id": "1",
+      "category": "CSS",
+      "createdAt": "2026-01-05"
+    },
+    {
+      "id": "2",
+      "title": "Why Vite is the Future of Frontend Tooling",
+      "body": "Vite has revolutionized the way we build frontend applications. With its lightning-fast Hot Module Replacement and optimized build process, development feels instant. Compared to older tools like Webpack, Vite leverages native ES modules to deliver a dramatically faster developer experience.",
+      "author": "James Carter",
+      "category": "Tooling",
+      "createdAt": "2026-01-05"
+    },
+    {
+      "id": "3",
+      "title": "Mastering TanStack Query",
+      "body": "TanStack Query simplifies server state management in React applications. With useQuery and useMutation hooks, fetching, caching, and synchronizing data becomes effortless. The automatic cache invalidation and background refetching ensure your UI always stays in sync with the server.",
+      "author": "Mert Kaya",
+      "category": "React",
+      "createdAt": "2026-01-07"
+    },
+    {
+      "id": "4",
+      "title": "React Router v6 Deep Dive",
+      "body": "React Router v6 introduced a cleaner API for managing navigation in single-page applications. The new Routes component, nested routing support, and hooks like useNavigate and useParams make building complex navigation flows straightforward and intuitive.",
+      "author": "Sophia Lee",
+      "category": "React",
+      "createdAt": "2026-01-09"
+    },
+    {
+      "id": "5",
+      "title": "HTTP Requests with Axios",
+      "body": "Axios is a promise-based HTTP client for both the browser and Node.js. Its interceptors allow you to attach tokens to every request automatically. Combined with TanStack Query, Axios becomes a powerful tool for managing all your API communication in a clean and maintainable way.",
+      "author": "Liam Johnson",
+      "category": "Tooling",
+      "createdAt": "2026-01-11"
+    },
+    {
+      "id": "6",
+      "title": "Understanding JavaScript Closures",
+      "body": "Closures are one of the most powerful and often misunderstood features of JavaScript. A closure gives you access to an outer function's scope from an inner function. Understanding closures is essential for writing clean, efficient, and bug-free JavaScript code.",
+      "author": "Olivia Brown",
+      "category": "JavaScript",
+      "createdAt": "2026-01-13"
+    },
+    {
+      "id": "7",
+      "title": "CSS Grid vs Flexbox: When to Use Which",
+      "body": "CSS Grid and Flexbox are both powerful layout tools, but they serve different purposes. Flexbox excels at one-dimensional layouts, while Grid shines for two-dimensional designs. Knowing when to use each will dramatically improve your layout skills and code quality.",
+      "author": "Emma Wilson",
+      "category": "CSS",
+      "createdAt": "2026-01-15"
+    },
+    {
+      "id": "8",
+      "title": "React useEffect Explained",
+      "body": "The useEffect hook lets you perform side effects in function components. Whether you're fetching data, subscribing to events, or manipulating the DOM, useEffect is your go-to tool. Understanding the dependency array is key to avoiding common bugs like infinite loops.",
+      "author": "James Carter",
+      "category": "React",
+      "createdAt": "2026-01-17"
+    },
+    {
+      "id": "9",
+      "title": "TypeScript for React Developers",
+      "body": "TypeScript adds static typing to JavaScript, catching errors at compile time rather than runtime. For React developers, TypeScript provides better IDE support, safer refactoring, and self-documenting code. Getting started is easier than you think, especially with modern tooling like Vite.",
+      "author": "Sophia Lee",
+      "category": "TypeScript",
+      "createdAt": "2026-01-19"
+    },
+    {
+      "id": "10",
+      "title": "State Management in 2024",
+      "body": "The React state management landscape has evolved significantly. From Redux to Zustand, Jotai, and TanStack Query, developers now have lightweight and focused tools for every use case. The trend is moving away from large monolithic stores toward smaller, purpose-built solutions.",
+      "author": "Mert Kaya",
+      "category": "React",
+      "createdAt": "2026-01-21"
+    },
+    {
+      "id": "11",
+      "title": "Building Accessible Web Applications",
+      "body": "Web accessibility ensures that everyone, including people with disabilities, can use your application. Semantic HTML, ARIA attributes, keyboard navigation, and sufficient color contrast are the foundations of accessible design. Building with accessibility in mind from the start saves enormous effort later.",
+      "author": "Olivia Brown",
+      "category": "General",
+      "createdAt": "2026-01-23"
+    },
+    {
+      "title": "Node.js REST API Best Practices",
+      "author": "Liam Johnson",
+      "body": "Building a REST API with Node.js requires careful thought around structure, error handling, and security. Use environment variables for sensitive data, validate all incoming requests, and keep your routes organized. A well-structured API is a joy to maintain and extend.",
+      "id": "12"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": 1,
+      "body": "Super helpful, exactly what I needed!",
+      "author": "Alex"
+    },
+    {
+      "id": "2",
+      "postId": 1,
+      "body": "I switched to Tailwind last month and never looked back.",
+      "author": "Sara"
+    },
+    {
+      "id": "3",
+      "postId": 1,
+      "body": "Great breakdown of the utility-first approach.",
+      "author": "Tom"
+    },
+    {
+      "id": "4",
+      "postId": 2,
+      "body": "Vite is absolutely incredible. The speed difference is night and day.",
+      "author": "Mia"
+    },
+    {
+      "id": "5",
+      "postId": 2,
+      "body": "Finally made the switch from CRA. No regrets!",
+      "author": "Jake"
+    },
+    {
+      "id": "6",
+      "postId": 3,
+      "body": "TanStack Query saved my project. Great article!",
+      "author": "Nina"
+    },
+    {
+      "id": "7",
+      "postId": 3,
+      "body": "The cache invalidation section was really eye-opening.",
+      "author": "Chris"
+    },
+    {
+      "id": "8",
+      "postId": 4,
+      "body": "v6 was confusing at first but this cleared things up.",
+      "author": "Dana"
+    },
+    {
+      "id": "9",
+      "postId": 5,
+      "body": "Axios interceptors are a game changer for auth tokens.",
+      "author": "Ryan"
+    },
+    {
+      "id": "10",
+      "postId": 6,
+      "body": "Closures finally clicked for me after reading this!",
+      "author": "Lily"
+    },
+    {
+      "id": "11",
+      "postId": 7,
+      "body": "I always mix these up. Bookmarked for reference!",
+      "author": "Max"
+    },
+    {
+      "id": "12",
+      "postId": 8,
+      "body": "The dependency array explanation is the clearest I've seen.",
+      "author": "Zoe"
+    },
+    {
+      "id": "13",
+      "postId": 9,
+      "body": "TypeScript felt scary but this made it approachable.",
+      "author": "Ben"
+    },
+    {
+      "id": "14",
+      "postId": 10,
+      "body": "Zustand is so underrated. Glad someone is talking about it.",
+      "author": "Ella"
+    },
+    {
+      "id": "15",
+      "postId": 11,
+      "body": "Accessibility is so often overlooked. Thanks for this.",
+      "author": "Paul"
+    },
+    {
+      "id": "16",
+      "postId": 12,
+      "body": "Clean API structure makes such a huge difference long term.",
+      "author": "Amy"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
