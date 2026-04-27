@@ -85,6 +85,15 @@ src/
 
 ---
 
+## 👤 Author
+
+**Mert Kaya**
+Frontend Developer
+[LinkedIn](https://www.linkedin.com/in/merttkaya20/)
+[GitHub](https://github.com/mertkaya20)
+
+---
+
 # 📝 Blog App (Türkçe)
 
 TanStack Query ile React'ta server state yönetimini öğrenmek için geliştirilmiş tam özellikli bir blog uygulaması.
@@ -167,3 +176,12 @@ src/
 | PATCH  | `/posts/:id`           | Post güncelle             |
 | DELETE | `/posts/:id`           | Post sil                  |
 | GET    | `/comments?postId=:id` | Posta ait yorumları getir |
+
+---
+
+## 👤 Geliştirici
+
+**Mert Kaya**
+Frontend Developer
+[LinkedIn](https://www.linkedin.com/in/merttkaya20/)
+[GitHub](https://github.com/mertkaya20)
